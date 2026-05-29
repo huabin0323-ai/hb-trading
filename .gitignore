@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite3
+data/
+.venv/
+venv/
+node_modules/
+.streamlit/
